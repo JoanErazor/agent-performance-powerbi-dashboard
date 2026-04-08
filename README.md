@@ -63,7 +63,7 @@ Data was transformed using Power Query with the following steps:
 
 ![Trends](images/trends.png)
 
-### Filters & Drillthrough
+### Filters
 
 ![Filters](images/filters.png)
 
