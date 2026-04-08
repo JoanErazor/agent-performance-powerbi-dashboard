@@ -104,7 +104,7 @@ This project strengthened my ability to:
 * Predictive analytics for performance forecasting
 
 ---
-## 🔒 Data Disclaimer
+## Data Disclaimer
 All data used in this project has been anonymized or generated for demonstration purposes.
 
 No real employee names, personal information, or sensitive business data are included. This dashboard is intended solely to showcase technical and analytical skills in a safe and ethical manner.
