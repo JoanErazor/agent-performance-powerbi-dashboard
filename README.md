@@ -1,5 +1,5 @@
 # Workforce Analytics Dashboard | Power BI Project
-# 📊 Agent Performance & Workforce Analytics Dashboard (Power BI)
+# Agent Performance & Workforce Analytics Dashboard (Power BI)
 
 ##  Business Problem
 
